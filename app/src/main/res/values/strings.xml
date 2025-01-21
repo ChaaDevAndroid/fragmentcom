@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdriaFirstTry</string>
+    <string name="title">Actions One</string>
+    <string name="shareDataToAct">Send Item To Activity</string>
+    <string name="shareDataToFragment">Send Item To Fragment</string>
+    <string name="shareDataToParentFragment">Send Item To Parent Fragment</string>
+    <string name="resulFragmentApi">Result Fragment Api</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_data_to_fragment_using_result_api">send data to Fragment using result API</string>
+</resources>
